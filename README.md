@@ -1,4 +1,4 @@
-blockvote
+Block-vote Application
 ==================
 
 This [React] app was initialized with [create-near-app]
