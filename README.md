@@ -1,8 +1,9 @@
 Block-vote Application
-==================
+============================================================================================
+This project was made by the students at NMREC and under the guidance of Dr. KALYAN KASTURI
+============================================================================================
 
 This [React] app was initialized with [create-near-app]
-
 
 Quick Start
 ===========
