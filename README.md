@@ -4,6 +4,9 @@ This project was made by the students at NMREC and under the guidance of Dr. KAL
 ============================================================================================
 
 This [React] app was initialized with [create-near-app]
+Made with:
+
+[![My Skills](https://skills.thijs.gg/icons?i=nodejs,html,css,jquery,)](https://skills.thijs.gg)
 
 Quick Start
 ===========
